@@ -85,3 +85,7 @@ a:active {
         float: left;
         position: relative;
     }
+
+    .title-2 {
+        text-align: left;
+    }
