@@ -19,3 +19,11 @@ img {
 .title-2{
     text-align: center;
 }
+
+.project {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 0;
+    margin-left: 0;
+}
