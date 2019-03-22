@@ -76,3 +76,7 @@ a:active {
         margin-left: 30px;
         margin-bottom: 50px;
     }
+
+    .info {
+        text-align: right;
+    }
