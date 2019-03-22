@@ -80,3 +80,8 @@ a:active {
     .info {
         text-align: right;
     }
+
+    .logo-img {
+        float: left;
+        position: relative;
+    }
