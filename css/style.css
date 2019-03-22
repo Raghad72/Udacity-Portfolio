@@ -57,6 +57,8 @@ a:active {
 @media screen and (min-width:865px) {
     .container { 
         display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
     }
 
     .project {
