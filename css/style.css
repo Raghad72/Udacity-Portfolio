@@ -53,3 +53,8 @@ a:active {
         width: 100%;
     }
 }
+
+@media screen and (min-width:865px) {
+    .container { 
+        display:flex;
+    }
