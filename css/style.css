@@ -65,3 +65,7 @@ a:active {
         margin-right: 20px;
         margin-left: 0;
     }
+
+    .project:last-of-type{
+        margin-right: 0;
+    }
